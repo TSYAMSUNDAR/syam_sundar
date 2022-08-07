@@ -37,4 +37,4 @@ the 3rd page of the website consists of the gallery which will shows u the diffe
  
  <img width="953" alt="7" src="https://user-images.githubusercontent.com/109416450/183293249-aefedc20-0d5e-4f30-ba52-fcf3df9950a5.PNG">
 
- 
+ the link to my project is https://happy-hill-093709010.1.azurestaticapps.net
